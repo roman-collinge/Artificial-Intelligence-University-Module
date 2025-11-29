@@ -1,4 +1,4 @@
-# Artificial Intelligence Module
+# Deep Learning Classification of CT Brain Scans
 I completed an Artificial Intelligence module for my BSc in Data Science at York St.John's University. This repository contains the code submitted for that module, demonstrating my experience in developing ML models from the ground up.
 
 This process involved dataset exploration and preparation, the designing, training and evaluation of multiple models and wrapped up with a detailed analysis and conclusion.
